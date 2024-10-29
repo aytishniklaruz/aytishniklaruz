@@ -1,4 +1,6 @@
-![logo1](https://github.com/user-attachments/assets/06ad5a9b-8241-43f8-86d7-498dec4d99a5)
+<div style="width: 25px;">
+  ![logo1](https://github.com/user-attachments/assets/06ad5a9b-8241-43f8-86d7-498dec4d99a5)
+</div>
 - 👋 Assalomu alaykum. Men Husan Muminov 🇺🇿
 - 👨‍⚕️ <b>Respublika Kasbiy Ko'nikmalar Markazi</b>ning <br> <b>"Web dasturchi"</b> va <b>"Kompyuter savodxonligi"</b> kurslari o'qituvchisiman.
 - 👨‍💻 Ushbu profilimda <b>"Web dasturchi"</b> kursi uchun barcha kurs fayllari va amaliyot ishlarini joylaganman. <br>
