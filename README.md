@@ -7,6 +7,7 @@
 - 📫 <b>Manzil:</b> Toshkent shahar, Yashnobod tumani, Parkent ko'chasi, 331-uy.
 - ⏰ <b>Dars soatlari: 1-smena - </b> 09:00-12:30
 - ⏰ <b>Dars soatlari: 2-smena - </b> 14:00-17:30
+- ⏰ <b>Dars kunlari:</b> Dushanba - Juma
 
 <!---
 aytishniklaruz/aytishniklaruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
