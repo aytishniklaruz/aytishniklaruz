@@ -2,8 +2,9 @@
 - 👨‍⚕️ <b>Respublika Kasbiy Ko'nikmalar Markazi</b>ning <br> <b>"Web dasturchi"</b> va <b>"Kompyuter savodxonligi"</b> kurslari o'qituvchisiman.
 - 👨‍💻 Ushbu profilimda <b>"Web dasturchi"</b> kursi uchun barcha kurs fayllari va amaliyot ishlarini joylaganman. <br>
 - ⛪️ <b>Respublika Kasbiy Ko'nikmalar Markazi</b>
+- ⛪️ <b>Xorijiy tillar va Raqamli texnologiyalari bo'limi</b>
 - ☎️ <b>Murojaat uchun:</b> 71 207-69-00 (114, 115)
-- 📫 <b>Manzil:</b> Toshkent shahar Yashnobod tumani Parkent ko'chasi 331-uy.
+- 📫 <b>Manzil:</b> Toshkent shahar, Yashnobod tumani, Parkent ko'chasi, 331-uy.
 - ⏰ <b>Dars soatlari: 1-smena - </b> 09:00-12:30
 - ⏰ <b>Dars soatlari: 2-smena - </b> 14:00-17:30
 
